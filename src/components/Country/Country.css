@@ -1,0 +1,8 @@
+.country-details{
+    border: 2px solid gold;
+    margin: 10px;
+    padding: 20px;
+}
+.country-details img{
+    height: 80px;
+}
